@@ -1,0 +1,29 @@
+# Node dependencies
+node_modules/
+npm-debug.log
+
+# Java build artifacts
+**/target/
+**/.mvn/
+**/.classpath
+**/.project
+**/.settings
+
+# Angular build
+client/dist/
+client/.angular/
+
+# IDE/editor configs
+.vscode/
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# OS-specific
+*.log
+
+# Secrets (make sure you never commit .env or secrets.json if used)
+.env
+
