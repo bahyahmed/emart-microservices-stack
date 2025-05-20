@@ -2,6 +2,10 @@
 
 This repository contains the full Dockerized microservices architecture for the **EMart App**, an e-commerce-style project built using multiple technologies and containerized for deployment.
 
+## 📊 Architecture Diagram
+
+![EMart Architecture](/assets/architecture.png)
+
 ## Architecture Overview
 
 This project includes:
